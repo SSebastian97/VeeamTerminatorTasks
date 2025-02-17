@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://seeklogo.com/images/M/microsoft-net-logo-631EFE744A-seeklogo.com.png" alt=".NET Framework Logo" width="200" />
-  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C# Logo" width="200" />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1200%2F1*2jOYMim7RdeyGWJXu4dU2w.png&f=1&nofb=1&ipt=8affaaa1fa4d2c636d761d3cf0a59e3524f7a439f3d9adcd5c8e8b2fa3c13fe6&ipo=images" alt=".NET Framework Logo" width="200" />
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*w0u2TZpEp3WfKMrlL5jTSw.png" alt="C# logo" width="200"/>
   <img src="https://media.istockphoto.com/id/961061528/ro/vector/pictogram%C4%83-multithreading.jpg?s=612x612&w=0&k=20&c=-bxL9q0day3yywvPIy-5Ida-_vZFKtd95OKFgoLlO80=" alt="multithreads Logo" width="200" />
   
   
